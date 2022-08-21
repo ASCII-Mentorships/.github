@@ -13,7 +13,7 @@ However, the mentorship group is more than just the project and is also a guidan
 *List of all the projects offered:* https://bp-gc.in/ASCIIMentorshipProgramme
 
 All the projects are part of the ASCII Mentorship Organization.\ 
-*Github page:* https://github.com/ASCII-Mentorships.\
+*Github page:* https://github.com/ASCII-Mentorships. \
 Please follow the GitHub link for more details. Get in touch with the project's Principal Investigator in case of doubts.
 
 ### Eligibility and Allotment:
